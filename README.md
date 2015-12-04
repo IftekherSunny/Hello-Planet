@@ -1,6 +1,6 @@
 # Hello Planet
 
-Dummy Package For The [Planet Framework](https://github.com/IftekherSunny/Planet-Framework)
+Demo Package For The [Planet Framework](http://planet.iftekhersunny.com)
 
 ## Installation Process
 
