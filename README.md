@@ -32,9 +32,9 @@ php planet migration:migrate
 
 Everything done. Now, start built in web server by the command
 
-'''
+```
 php planet run
-'''
+```
 
 Visit the link to see Hello Planet Page 
  
