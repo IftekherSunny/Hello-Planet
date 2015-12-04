@@ -1,0 +1,17 @@
+.jumbotron {
+    margin-top: -20px;
+}
+
+.panel-heading {
+    text-align: center;
+    font-size: 20px;
+}
+
+.panel-body {
+    font-size: 16px;
+}
+
+.panel-body div {
+    padding: 10px 0px;
+    border-bottom: 1px solid #eee;
+}

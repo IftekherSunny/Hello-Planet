@@ -1,0 +1,17 @@
+{
+  "name": "sun/hello-planet",
+  "description": "Hello Planet Package For The Planet Framework.",
+  "keywords": ["framework", "planet", "Hello", "World"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Iftekher Sunny",
+      "email": "iftekhersunny@hotmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Sun\\": "app/"
+    }
+  }
+}
