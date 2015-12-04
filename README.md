@@ -1,6 +1,6 @@
-# Hello-Planet
+# Hello Planet
 
-Hello Planet Package For The Planet Framework.
+Dummy Package For The Planet Framework.
 
 ## Installation Process
 
