@@ -1,6 +1,7 @@
 <?php
 
 use Sun\Database\Migration;
+use Illuminate\Database\Schema\Blueprint;
 
 class CreateMessagesTable extends Migration
 {
