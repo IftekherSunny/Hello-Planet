@@ -6,14 +6,14 @@ Dummy Package For The Planet Framework.
 
 In order to install Hello Planet, just add
 
-```
+```json
  "sun/hello-planet": "1.*"
 ```
 to your composer.json. Then run composer install or composer update.
 
 Then in your config/provider.php add
 
-```
+```php
  'Sun\HelloProvider',
 ```
 
