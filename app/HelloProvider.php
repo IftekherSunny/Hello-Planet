@@ -40,6 +40,14 @@ class HelloProvider
     }
 
     /**
+     * Dispatch service
+     */
+    public function dispatch()
+    {
+        //
+    }
+
+    /**
      * Publish assets
      *
      * @return array
